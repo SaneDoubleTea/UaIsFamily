@@ -1,3 +1,3 @@
 # UaIsFamily
 
-https://sanedoubletea.github.io/UaIsFamily/
+https://sanedoubletea.github.io/UaIsFamily/index-en.html
